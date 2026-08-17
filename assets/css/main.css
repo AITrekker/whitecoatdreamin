@@ -185,8 +185,9 @@ a:hover { color: var(--accent-lo); }
 }
 
 /* WordPress leftovers rendered sanely */
-.entry img, .entry figure img { max-width: 100%; height: auto; display: block; border-radius: 3px; }
-.entry figure { margin: 1.6rem 0; }
+/* `.item` covers the home-page excerpts, which are not wrapped in `.entry`. */
+.entry img, .entry figure img, .item img { max-width: 100%; height: auto; display: block; border-radius: 3px; }
+.entry figure, .item figure { margin: 1.6rem 0; }
 .entry figcaption {
   font-family: var(--sans); font-size: .78rem; color: var(--muted);
   margin-top: .5rem; text-align: center;
