@@ -31,7 +31,6 @@ defaults:
 exclude:
   - _image_map.json
   - README.md
-  - PLAN.md
   - Gemfile
   - Gemfile.lock
   - vendor
