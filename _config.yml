@@ -1,0 +1,36 @@
+title: White Coat Dreamin
+tagline: "Teen in Scrubs: Chasing the Dream of Becoming a Doctor"
+description: >-
+  Monica's journey through high school and toward medicine — clinical programs,
+  volunteering, college applications, and the road to becoming a doctor.
+author: Monica Gupta
+lang: en
+
+# Preview runs at aitrekker.github.io/whitecoatdreamin.
+# At cutover to whitecoatdreamin.com, set baseurl to "" and url to the domain.
+url: "https://aitrekker.github.io"
+baseurl: "/whitecoatdreamin"
+
+permalink: /:year/:month/:day/:title/
+excerpt_separator: "<!--more-->"
+timezone: America/Los_Angeles
+
+paginate: 10
+paginate_path: "/page:num/"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
+
+exclude:
+  - _image_map.json
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

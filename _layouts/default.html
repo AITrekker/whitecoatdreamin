@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/fonts.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/img/cropped-site_banner.png' | relative_url }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}"
+        href="{{ '/feed.xml' | relative_url }}">
+  {%- seo -%}
+</head>
+<body>
+
+<a class="skip" href="#content">Skip to content</a>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <p class="tagline">{{ site.tagline }}</p>
+
+    <nav class="tabs" aria-label="Sections">
+      <a href="{{ '/' | relative_url }}"
+         {% if page.url == '/' or page.layout == 'post' %}class="on" aria-current="page"{% endif %}>Blog</a>
+      {%- assign navpages = site.pages | where_exp: "p", "p.nav_order" | sort: "nav_order" -%}
+      {%- for p in navpages %}
+      <a href="{{ p.url | relative_url }}"
+         {% if page.url == p.url %}class="on" aria-current="page"{% endif %}>{{ p.title }}</a>
+      {%- endfor %}
+    </nav>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="rail" aria-label="All posts">
+    <h2>All posts</h2>
+    <ul>
+      {%- for post in site.posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}" {% if page.url == post.url %}class="on"{% endif %}>
+          {{ post.title }}
+          <span class="d">{{ post.date | date: "%-d %b %Y" }}</span>
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+  </aside>
+
+  <main class="main" id="content">
+    {{ content }}
+  </main>
+</div>
+
+<footer class="foot">
+  <p>&copy; {{ site.time | date: "%Y" }} {{ site.author }}. Written since 2023.</p>
+  <p><a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+</footer>
+
+</body>
+</html>

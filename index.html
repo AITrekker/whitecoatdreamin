@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="listing">
+  {%- for post in paginator.posts %}
+  <article class="item">
+    <p class="meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></p>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+    {%- unless post.content == post.excerpt %}
+    <a class="more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
+    {%- endunless %}
+  </article>
+  {%- endfor %}
+</div>
+
+{%- if paginator.total_pages > 1 %}
+<nav class="pagination" aria-label="Pages">
+  {%- if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>
+  {%- endif %}
+  <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {%- if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}">Older &rarr;</a>
+  {%- endif %}
+</nav>
+{%- endif %}
