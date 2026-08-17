@@ -11,17 +11,9 @@ wp_id: 76
 
 
 <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" href="https://whitecoatdreamin.com/life-as-a-page-in-washington-state/" style="background:linear-gradient(135deg,rgb(6,147,227) 0%,rgb(0,208,132) 50%,rgb(155,81,224) 100%)">Life as a page in Washington State</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" href="https://senatedemocrats.wa.gov/dhingra/2023/04/18/monica-gupta-serves-as-page-in-the-washington-state-senate/" style="background:linear-gradient(135deg,rgb(6,147,227) 0%,rgb(0,208,132) 50%,rgb(155,81,224) 100%)" target="_blank" rel="noreferrer noopener">Read more at the WA State Senate</a></div>
 </div>
 
 
 
 <p class="wp-block-paragraph" style="font-size:0.8rem">*Image Source: <a href="https://senatedemocrats.wa.gov/dhingra/2023/04/18/monica-gupta-serves-as-page-in-the-washington-state-senate/">https://senatedemocrats.wa.gov/dhingra/2023/04/18/monica-gupta-serves-as-page-in-the-washington-state-senate/</a></p>
-
-
-
-<p class="wp-block-paragraph">Tips to starting an educational YouTube channel</p>
-
-
-
-<p class="wp-block-paragraph">How to be a confident public speaker</p>
