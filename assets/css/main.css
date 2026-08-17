@@ -82,6 +82,27 @@ a:hover { color: var(--accent-lo); }
 .tabs a:hover { color: var(--ink); }
 .tabs a.on { color: var(--accent); border-bottom-color: var(--accent); }
 
+.mast-top {
+  display: flex; align-items: center; justify-content: space-between; gap: 1.5rem;
+}
+.mast-id { display: flex; align-items: center; gap: .85rem; flex: 1 1 auto; min-width: 0; }
+.mast-id .brand-text { flex: 1 1 auto; min-width: 0; }
+
+.mast-social { display: flex; align-items: center; gap: .55rem; flex: none; }
+.mast-social a { display: flex; color: var(--muted); padding: .25rem; }
+.mast-social a:hover { color: var(--accent); }
+.mast-social svg { width: 21px; height: 21px; display: block; fill: currentColor; }
+
+/* ---------- the "Doctor in the making" artwork ---------- */
+
+/* Black line art on transparency, so dark mode just inverts it to white
+   rather than showing a lit-up white panel. */
+.mast-logo { width: auto; height: 26px; flex: none; display: block; }
+
+@media (prefers-color-scheme: dark) {
+  .mast-logo, .wp-block-site-logo img { filter: invert(1); }
+}
+
 /* ---------- shell ---------- */
 
 .shell {
@@ -184,7 +205,8 @@ a:hover { color: var(--accent-lo); }
   position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: 4px;
 }
 .wp-block-social-links { display: flex; gap: .7rem; list-style: none; padding: 0; margin: 1.2rem 0; }
-.wp-block-site-logo img { max-width: 140px; }
+/* Must stay after `.entry img`, which is equally specific and would otherwise win. */
+.wp-block-site-logo img { max-width: 140px; height: auto; }
 
 /* ---------- pagers ---------- */
 
@@ -237,6 +259,8 @@ a:hover { color: var(--accent-lo); }
   .rail ul { gap: .95rem; }
   .masthead-inner { padding-top: 1.3rem; }
   .brand { font-size: 1.4rem; }
+  .mast-top { gap: 1rem; }
+  .mast-social svg { width: 19px; height: 19px; }
   .entry-head h1 { font-size: 1.7rem; }
   .item h2 { font-size: 1.3rem; }
 }
