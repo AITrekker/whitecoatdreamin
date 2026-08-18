@@ -2,10 +2,9 @@
 layout: post
 title: "UW’s Day as a Doc"
 date: 2023-11-15T09:08:00
-wp_id: 213
 ---
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" data-attachment-id="402" data-permalink="https://whitecoatdreamin.com/2023/11/15/doctor-for-a-day-shadowing-events/doc_for_day_1/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2023/11/doc_for_day_1.jpg" data-orig-size="1536,1152" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="doc_for_day_1" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2023/11/doc_for_day_1.jpg?w=1024" src="{{ site.baseurl }}/assets/img/doc_for_day_1.jpg" alt="" class="wp-image-402" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="{{ site.baseurl }}/assets/img/doc_for_day_1.jpg" alt="" class="wp-image-402" /></figure>
 
 
 
@@ -15,7 +14,7 @@ wp_id: 213
 
 
 
-<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" width="1024" height="768" data-attachment-id="403" data-permalink="https://whitecoatdreamin.com/2023/11/15/doctor-for-a-day-shadowing-events/doc_for_day_2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2023/11/doc_for_day_2.jpg" data-orig-size="1536,1152" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="doc_for_day_2" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2023/11/doc_for_day_2.jpg?w=1024" src="{{ site.baseurl }}/assets/img/doc_for_day_2.jpg" alt="" class="wp-image-403" style="aspect-ratio:1.3333333333333333;object-fit:cover;width:825px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" width="1024" height="768" src="{{ site.baseurl }}/assets/img/doc_for_day_2.jpg" alt="" class="wp-image-403" style="aspect-ratio:1.3333333333333333;object-fit:cover;width:825px;height:auto" /></figure>
 
 
 

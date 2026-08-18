@@ -2,7 +2,6 @@
 layout: post
 title: "Inside the World of Pediatric Nursing: A Firsthand Experience at Children’s Hospital Nurses Camp"
 date: 2024-07-23T17:04:00
-wp_id: 313
 ---
 
 <p class="wp-block-paragraph">During my time at a local Children&#8217;s Hospital Nurses Camp this summer, I had the unique opportunity to step into the world of pediatric nursing. About 4 immersive days, I shadowed experienced nurses across various hospital units, from the Cardiovascular Intensive Care Unit (CICU) to the Neonatal Intensive Care Unit (NICU) and surgical wards. This experience not only exposed me to the complexities of patient care but also provided invaluable insights into the roles and responsibilities of healthcare professionals. However, the camp ended abruptly on the fifth day due to a worldwide cyberattack that disrupted hospital systems, a stark reminder of the crucial role technology plays in healthcare. My journey through the camp was both educational and inspiring, offering a glimpse into the compassionate and demanding world of nursing.</p>
@@ -11,7 +10,7 @@ wp_id: 313
 
 
 
-<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" width="653" height="1024" data-attachment-id="426" data-permalink="https://whitecoatdreamin.com/2024/07/23/inside-the-world-of-pediatric-nursing-a-firsthand-experience-at-childrens-hospital-nurses-camp/monica_nursecamp-1-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/07/monica_nursecamp-1.png" data-orig-size="658,1032" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Monica_NurseCamp-1" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/07/monica_nursecamp-1.png?w=653" src="{{ site.baseurl }}/assets/img/monica_nursecamp-1.jpg" alt="" class="wp-image-426" style="width:840px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" width="653" height="1024" src="{{ site.baseurl }}/assets/img/monica_nursecamp-1.jpg" alt="" class="wp-image-426" style="width:840px;height:auto" /></figure>
 
 
 

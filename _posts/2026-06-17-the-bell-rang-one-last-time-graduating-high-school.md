@@ -2,7 +2,6 @@
 layout: post
 title: "The Bell Rang One Last Time: Graduating High School"
 date: 2026-06-17T21:16:00
-wp_id: 461
 ---
 
 <p class="wp-block-paragraph">People always say that the four years of high school fly by. For most of high school, I never completely understood what they meant.</p>
@@ -13,7 +12,7 @@ wp_id: 461
 
 
 
-<figure class="wp-block-image size-large"><img data-attachment-id="462" data-permalink="https://whitecoatdreamin.com/2026/06/17/the-bell-rang-one-last-time-graduating-high-school/5e5696f2-96fc-4e60-8ff8-e4e768b45da3_1_201_a/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/5e5696f2-96fc-4e60-8ff8-e4e768b45da3_1_201_a.jpeg" data-orig-size="4722,3265" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D3300&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1781589568&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;155&quot;,&quot;iso&quot;:&quot;250&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="5E5696F2-96FC-4E60-8FF8-E4E768B45DA3_1_201_a" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/5e5696f2-96fc-4e60-8ff8-e4e768b45da3_1_201_a.jpeg?w=1024" loading="lazy" width="1024" height="708" src="{{ site.baseurl }}/assets/img/5e5696f2-96fc-4e60-8ff8-e4e768b45da3_1_201_a.jpg" alt="" class="wp-image-462" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="708" src="{{ site.baseurl }}/assets/img/5e5696f2-96fc-4e60-8ff8-e4e768b45da3_1_201_a.jpg" alt="" class="wp-image-462" /></figure>
 
 
 
@@ -119,4 +118,4 @@ wp_id: 461
 
 
 
-<figure class="wp-block-image size-large is-resized"><img data-attachment-id="468" data-permalink="https://whitecoatdreamin.com/2026/06/17/the-bell-rang-one-last-time-graduating-high-school/9a25bace-bf54-439c-9424-641ef7bea4ba_1_201_a-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/9a25bace-bf54-439c-9424-641ef7bea4ba_1_201_a-1.jpeg" data-orig-size="2679,2999" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 15 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1779568009&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;9&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.01010101010101&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;latitude&quot;:&quot;46.312986111111&quot;,&quot;longitude&quot;:&quot;-123.99722222222&quot;}" data-image-title="9A25BACE-BF54-439C-9424-641EF7BEA4BA_1_201_a" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/9a25bace-bf54-439c-9424-641ef7bea4ba_1_201_a-1.jpeg?w=915" loading="lazy" width="915" height="1024" src="{{ site.baseurl }}/assets/img/9a25bace-bf54-439c-9424-641ef7bea4ba_1_201_a-1.jpg" alt="" class="wp-image-468" style="aspect-ratio:0.8935600845469177;width:615px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="915" height="1024" src="{{ site.baseurl }}/assets/img/9a25bace-bf54-439c-9424-641ef7bea4ba_1_201_a-1.jpg" alt="" class="wp-image-468" style="aspect-ratio:0.8935600845469177;width:615px;height:auto" /></figure>

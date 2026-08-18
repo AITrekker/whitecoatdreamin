@@ -2,10 +2,9 @@
 layout: post
 title: "Empowering Voices: Inspiring Debates in Seattle’s Schools"
 date: 2024-03-11T09:36:00
-wp_id: 282
 ---
 
-<figure class="wp-block-image aligncenter size-full is-resized"><img data-attachment-id="432" data-permalink="https://whitecoatdreamin.com/2024/03/11/empowering-voices-inspiring-debates-in-seattles-schools/debate3/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/03/debate3.png" data-orig-size="1257,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="debate3" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/03/debate3.png?w=838" src="{{ site.baseurl }}/assets/img/debate3.jpg" alt="" class="wp-image-432" style="width:300px" /></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="{{ site.baseurl }}/assets/img/debate3.jpg" alt="" class="wp-image-432" style="width:300px" /></figure>
 
 
 
@@ -19,7 +18,7 @@ wp_id: 282
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" width="799" height="1024" data-attachment-id="433" data-permalink="https://whitecoatdreamin.com/2024/03/11/empowering-voices-inspiring-debates-in-seattles-schools/debate2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/03/debate2.png" data-orig-size="1339,1717" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="debate2" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/03/debate2.png?w=799" src="{{ site.baseurl }}/assets/img/debate2.jpg" alt="" class="wp-image-433" style="object-fit:cover;width:500px;height:500px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" width="799" height="1024" src="{{ site.baseurl }}/assets/img/debate2.jpg" alt="" class="wp-image-433" style="object-fit:cover;width:500px;height:500px" /></figure>
 
 
 
@@ -27,4 +26,4 @@ wp_id: 282
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="728" data-attachment-id="434" data-permalink="https://whitecoatdreamin.com/2024/03/11/empowering-voices-inspiring-debates-in-seattles-schools/debate4/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/03/debate4.png" data-orig-size="1536,1092" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="debate4" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/03/debate4.png?w=1024" src="{{ site.baseurl }}/assets/img/debate4.jpg" alt="" class="wp-image-434" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="728" src="{{ site.baseurl }}/assets/img/debate4.jpg" alt="" class="wp-image-434" /></figure>

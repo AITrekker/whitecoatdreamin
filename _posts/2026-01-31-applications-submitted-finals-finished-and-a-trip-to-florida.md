@@ -2,7 +2,6 @@
 layout: post
 title: "Applications Submitted, Finals Finished, and a Interview at Florida"
 date: 2026-01-31T21:26:05
-wp_id: 477
 ---
 
 <p class="wp-block-paragraph">After months of writing essays, tracking deadlines, and repeatedly checking application portals, I am officially done applying to college.</p>
@@ -47,7 +46,7 @@ wp_id: 477
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" data-attachment-id="480" data-permalink="https://whitecoatdreamin.com/2026/01/31/applications-submitted-finals-finished-and-a-trip-to-florida/47d03543-a733-41e5-90fd-ce97ca5a314d_1_102_o/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/47d03543-a733-41e5-90fd-ce97ca5a314d_1_102_o.jpeg" data-orig-size="2048,1536" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.78&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 15 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1769781686&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.7649998656528&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.00029197080291971&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;latitude&quot;:&quot;26.078761111111&quot;,&quot;longitude&quot;:&quot;-80.2397&quot;}" data-image-title="47D03543-A733-41E5-90FD-CE97CA5A314D_1_102_o" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/47d03543-a733-41e5-90fd-ce97ca5a314d_1_102_o.jpeg?w=1024" src="{{ site.baseurl }}/assets/img/47d03543-a733-41e5-90fd-ce97ca5a314d_1_102_o.jpg" alt="" class="wp-image-480" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="{{ site.baseurl }}/assets/img/47d03543-a733-41e5-90fd-ce97ca5a314d_1_102_o.jpg" alt="" class="wp-image-480" /></figure>
 
 
 
@@ -67,7 +66,7 @@ wp_id: 477
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" data-attachment-id="482" data-permalink="https://whitecoatdreamin.com/2026/01/31/applications-submitted-finals-finished-and-a-trip-to-florida/5a75a5c2-4229-4acb-8e59-e7fdbcc32cf4_1_105_c/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/5a75a5c2-4229-4acb-8e59-e7fdbcc32cf4_1_105_c.jpeg" data-orig-size="1024,768" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 15 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1769843117&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;9&quot;,&quot;iso&quot;:&quot;25&quot;,&quot;shutter_speed&quot;:&quot;0.0022935779816514&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;latitude&quot;:&quot;26.100058333333&quot;,&quot;longitude&quot;:&quot;-80.105919444444&quot;}" data-image-title="5A75A5C2-4229-4ACB-8E59-E7FDBCC32CF4_1_105_c" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/5a75a5c2-4229-4acb-8e59-e7fdbcc32cf4_1_105_c.jpeg?w=1024" src="{{ site.baseurl }}/assets/img/5a75a5c2-4229-4acb-8e59-e7fdbcc32cf4_1_105_c.jpg" alt="" class="wp-image-482" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="{{ site.baseurl }}/assets/img/5a75a5c2-4229-4acb-8e59-e7fdbcc32cf4_1_105_c.jpg" alt="" class="wp-image-482" /></figure>
 
 
 

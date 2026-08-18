@@ -3,7 +3,6 @@ layout: page
 title: "Emerald City Angels"
 permalink: /emerald-city-angels/
 nav_order: 5
-wp_id: 90
 ---
 
 <p class="wp-block-paragraph">Emerald City Angels is a junior guild supporting <a href="https://www.seattlechildrens.org/" target="_blank" rel="noreferrer noopener">Seattle Children&#8217;s Hospital</a>, and I serve as its Junior Guild President. Three friends and I founded it in October 2023, after a workshop where we learned to knit hats for newborns and preemies. The idea was simple &#8212; a handmade hat is a small thing to give and a real thing to receive &#8212; and it grew into a guild that raises money for the hospital and puts hats and blankets into the hands of its smallest patients.</p>
@@ -59,7 +58,7 @@ wp_id: 90
 
 <p class="wp-block-paragraph">If you would like to get involved &#8212; volunteering, donating, or simply passing the word along &#8212; I would love to hear from you.</p>
 
-<div class="wp-block-group alignfull has-contrast-color has-text-color is-vertical is-content-justification-center is-layout-flex wp-container-core-group-is-layout-bf69f05a wp-block-group-is-layout-flex" style="min-height:40vh;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)"><div style="margin-bottom:6px" class="is-default-size aligncenter wp-block-site-logo"><a href="https://whitecoatdreamin.com/" class="custom-logo-link" rel="home"><img loading="lazy" width="320" height="435" src="{{ site.baseurl }}/assets/img/doctor-in-the-making.png" class="custom-logo" alt="White Coat Dreamin" /></a></div>
+<div class="wp-block-group alignfull has-contrast-color has-text-color is-vertical is-content-justification-center is-layout-flex wp-block-group-is-layout-flex" style="min-height:40vh;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)"><div style="margin-bottom:6px" class="is-default-size aligncenter wp-block-site-logo"><a href="{{ '/' | relative_url }}" class="custom-logo-link" rel="home"><img loading="lazy" width="320" height="435" src="{{ site.baseurl }}/assets/img/doctor-in-the-making.png" class="custom-logo" alt="White Coat Dreamin" /></a></div>
 
 
 <p class="has-text-align-center has-medium-font-size wp-block-paragraph">White Coat Dreamin</p>

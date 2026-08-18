@@ -3,7 +3,6 @@ layout: page
 title: "Videos"
 permalink: /videos/
 nav_order: 4
-wp_id: 14
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
@@ -314,13 +313,13 @@ wp_id: 14
 
 
 
-<div class="wp-block-group alignfull has-contrast-color has-text-color is-vertical is-content-justification-center is-layout-flex wp-container-core-group-is-layout-bf69f05a wp-block-group-is-layout-flex" style="min-height:40vh;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)">
+<div class="wp-block-group alignfull has-contrast-color has-text-color is-vertical is-content-justification-center is-layout-flex wp-block-group-is-layout-flex" style="min-height:40vh;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)">
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/xVxzUn9Ey1M?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&#038;listType=playlist&#038;list=PLjAzvD6g3fNza_lGZr-PN6Z5OcBRPkD0n" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
 </div></figure>
 
 
-<div style="margin-bottom:6px" class="is-default-size aligncenter is-style-default wp-block-site-logo wp-duotone-unset-2"><a href="https://whitecoatdreamin.com/" class="custom-logo-link" rel="home"><img loading="lazy" width="320" height="435" src="{{ site.baseurl }}/assets/img/doctor-in-the-making.png" class="custom-logo" alt="White Coat Dreamin" data-attachment-id="440" data-permalink="https://whitecoatdreamin.com/videos/doctor-in-the-making-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/10/doctor-in-the-making.png" data-orig-size="790,874" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="doctor-in-the-making" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/10/doctor-in-the-making.png?w=790" /></a></div>
+<div style="margin-bottom:6px" class="is-default-size aligncenter is-style-default wp-block-site-logo wp-duotone-unset-2"><a href="{{ '/' | relative_url }}" class="custom-logo-link" rel="home"><img loading="lazy" width="320" height="435" src="{{ site.baseurl }}/assets/img/doctor-in-the-making.png" class="custom-logo" alt="White Coat Dreamin" /></a></div>
 
 
 <p class="has-text-align-center has-medium-font-size wp-block-paragraph">White Coat Dreamin</p>

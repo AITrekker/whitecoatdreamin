@@ -2,10 +2,9 @@
 layout: post
 title: "Reflections of a 10th grader: Wrapping up exams and beginning of summer"
 date: 2024-06-24T16:01:00
-wp_id: 296
 ---
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="706" height="892" data-attachment-id="428" data-permalink="https://whitecoatdreamin.com/2024/06/24/reflections-of-a-10th-grader-wrapping-up-exams-and-beginning-of-summer/reflections-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/06/reflections.png" data-orig-size="706,892" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Reflections" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/06/reflections.png?w=706" src="{{ site.baseurl }}/assets/img/reflections.jpg" alt="" class="wp-image-428" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="706" height="892" src="{{ site.baseurl }}/assets/img/reflections.jpg" alt="" class="wp-image-428" /></figure>
 
 
 

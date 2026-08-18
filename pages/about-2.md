@@ -3,7 +3,6 @@ layout: page
 title: "About Me"
 permalink: /about/
 nav_order: 2
-wp_id: 11
 ---
 
 <p class="wp-block-paragraph">I&#8217;m Monica. I graduated high school in June 2026, and this fall I&#8217;m moving to Los Angeles to study Health and Human Sciences at Loyola Marymount University.</p>
@@ -24,7 +23,7 @@ wp_id: 11
 <div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-base-color has-text-color has-background wp-element-button" href="https://www.linkedin.com/in/monica-g-9b7855287/" style="background:linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 86%)" target="_blank" rel="noreferrer noopener">See more on LinkedIn</a></div>
 </div>
 
-<div class="wp-block-group alignfull has-contrast-color has-text-color is-vertical is-content-justification-center is-layout-flex wp-container-core-group-is-layout-bf69f05a wp-block-group-is-layout-flex" style="min-height:40vh;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)"><div style="margin-bottom:6px" class="is-default-size aligncenter wp-block-site-logo"><a href="https://whitecoatdreamin.com/" class="custom-logo-link" rel="home"><img loading="lazy" width="320" height="435" src="{{ site.baseurl }}/assets/img/doctor-in-the-making.png" class="custom-logo" alt="White Coat Dreamin" /></a></div>
+<div class="wp-block-group alignfull has-contrast-color has-text-color is-vertical is-content-justification-center is-layout-flex wp-block-group-is-layout-flex" style="min-height:40vh;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)"><div style="margin-bottom:6px" class="is-default-size aligncenter wp-block-site-logo"><a href="{{ '/' | relative_url }}" class="custom-logo-link" rel="home"><img loading="lazy" width="320" height="435" src="{{ site.baseurl }}/assets/img/doctor-in-the-making.png" class="custom-logo" alt="White Coat Dreamin" /></a></div>
 
 
 <p class="has-text-align-center has-medium-font-size wp-block-paragraph">White Coat Dreamin</p>

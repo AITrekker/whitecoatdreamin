@@ -2,14 +2,13 @@
 layout: post
 title: "My Summer at Johns Hopkins: A Medical School Intensive Experience"
 date: 2025-07-03T06:30:28
-wp_id: 342
 ---
 
 <p class="wp-block-paragraph">This July, I had the incredible opportunity to spend part of my summer at <strong>Johns Hopkins University</strong> for a college level course called the <strong>Medical School Intensive</strong>. As a high school student dreaming of a future in medicine, being accepted into the program felt surreal, like I was taking my very first steps toward the white coat I have always imagined myself wearing.</p>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" data-attachment-id="413" data-permalink="https://whitecoatdreamin.com/2025/07/03/my-time-at-jhu/jhu1-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/07/jhu1.jpg" data-orig-size="1152,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="JHU1" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/07/jhu1.jpg?w=768" src="{{ site.baseurl }}/assets/img/jhu1.jpg" alt="" class="wp-image-413" style="width:518px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/jhu1.jpg" alt="" class="wp-image-413" style="width:518px;height:auto" /></figure>
 
 
 
@@ -35,7 +34,7 @@ wp_id: 342
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" data-attachment-id="414" data-permalink="https://whitecoatdreamin.com/2025/07/03/my-time-at-jhu/jhu2-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/07/jhu2.jpg" data-orig-size="1152,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="JHU2" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/07/jhu2.jpg?w=768" src="{{ site.baseurl }}/assets/img/jhu2.jpg" alt="" class="wp-image-414" style="width:464px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/jhu2.jpg" alt="" class="wp-image-414" style="width:464px;height:auto" /></figure>
 
 
 
@@ -51,7 +50,7 @@ wp_id: 342
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" data-attachment-id="415" data-permalink="https://whitecoatdreamin.com/2025/07/03/my-time-at-jhu/jhu3/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/07/jhu3.jpg" data-orig-size="1152,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="JHU3" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/07/jhu3.jpg?w=768" src="{{ site.baseurl }}/assets/img/jhu3.jpg" alt="" class="wp-image-415" style="width:556px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/jhu3.jpg" alt="" class="wp-image-415" style="width:556px;height:auto" /></figure>
 
 
 
@@ -63,7 +62,7 @@ wp_id: 342
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" data-attachment-id="417" data-permalink="https://whitecoatdreamin.com/2025/07/03/my-time-at-jhu/jhu4/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/07/jhu4.jpg" data-orig-size="768,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="JHU4" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/07/jhu4.jpg?w=768" src="{{ site.baseurl }}/assets/img/jhu4.jpg" alt="" class="wp-image-417" style="width:506px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/jhu4.jpg" alt="" class="wp-image-417" style="width:506px;height:auto" /></figure>
 
 
 

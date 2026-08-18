@@ -2,14 +2,13 @@
 layout: post
 title: "The Start of Senior Year: College Applications, Essays, and Big Decisions"
 date: 2025-09-06T15:43:00
-wp_id: 444
 ---
 
 <p class="wp-block-paragraph">Senior year has officially begun, and it already feels different from every other year of high school. There are still classes, homework, tests, and activities, but now college applications are constantly running in the background.</p>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="999" height="1024" data-attachment-id="448" data-permalink="https://whitecoatdreamin.com/2025/09/06/the-start-of-senior-year-college-applications-essays-and-big-decisions/4e46c103-51a6-43b9-9b0f-a3d98e5551be_1_201_a/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/4e46c103-51a6-43b9-9b0f-a3d98e5551be_1_201_a.jpeg" data-orig-size="3108,3187" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.78&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 15 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1756796247&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.7649998656528&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.0082644628099174&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;latitude&quot;:&quot;47.707686111111&quot;,&quot;longitude&quot;:&quot;-122.1074&quot;}" data-image-title="4E46C103-51A6-43B9-9B0F-A3D98E5551BE_1_201_a" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/4e46c103-51a6-43b9-9b0f-a3d98e5551be_1_201_a.jpeg?w=999" src="{{ site.baseurl }}/assets/img/4e46c103-51a6-43b9-9b0f-a3d98e5551be_1_201_a.jpg" alt="" class="wp-image-448" style="aspect-ratio:0.9755891008405141;width:677px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="999" height="1024" src="{{ site.baseurl }}/assets/img/4e46c103-51a6-43b9-9b0f-a3d98e5551be_1_201_a.jpg" alt="" class="wp-image-448" style="aspect-ratio:0.9755891008405141;width:677px;height:auto" /></figure>
 
 
 

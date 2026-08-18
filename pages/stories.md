@@ -3,7 +3,6 @@ layout: page
 title: "Stories"
 permalink: /stories/
 nav_order: 3
-wp_id: 76
 ---
 
 <p class="wp-block-paragraph">Every so often something I have done ends up written about somewhere other than this blog. This is where I keep those.</p>

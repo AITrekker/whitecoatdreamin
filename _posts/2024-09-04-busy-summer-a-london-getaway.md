@@ -2,7 +2,6 @@
 layout: post
 title: "Busy Summer: A London Getaway"
 date: 2024-09-04T04:36:34
-wp_id: 321
 ---
 
 <p class="wp-block-paragraph">As the summer draws to a close and the school year looms on the horizon, I find myself reflecting on the whirlwind of experiences that made this summer one to remember. Being in 11th grade, I knew that this summer would be crucial—both for my academic journey and for personal growth. And boy, was it busy!</p>

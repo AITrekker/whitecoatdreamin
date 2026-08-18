@@ -2,7 +2,6 @@
 layout: post
 title: "I had finals, not my first rodeo"
 date: 2025-01-18T09:06:44
-wp_id: 346
 ---
 
 <p class="wp-block-paragraph">This week I wrapped up my <strong>fifth round of finals in high school</strong>. Out of eight total, I’m officially past the halfway mark. And while finals are never easy, this isn’t my first rodeo — and that makes all the difference.</p>

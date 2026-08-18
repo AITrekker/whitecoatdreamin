@@ -2,7 +2,6 @@
 layout: post
 title: "The Hustle and Bustle of Junior Year: Balancing School, SAT Prep, and Extracurriculars"
 date: 2024-10-21T04:18:17
-wp_id: 326
 ---
 
 <p class="wp-block-paragraph"></p>

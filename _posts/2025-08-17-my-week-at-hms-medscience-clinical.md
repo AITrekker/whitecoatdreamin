@@ -2,7 +2,6 @@
 layout: post
 title: "A Week at HMS MedScience Clinical"
 date: 2025-08-17T15:43:36
-wp_id: 352
 ---
 
 <p class="wp-block-paragraph">This past week at HMS MedScience Clinical has been one of the most exciting and meaningful learning experiences of my life. Each day challenged me to think like a doctor, not just in terms of medical knowledge but also teamwork, empathy, and handling pressure. Here is what I experienced:</p>
@@ -13,7 +12,7 @@ wp_id: 352
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" data-attachment-id="409" data-permalink="https://whitecoatdreamin.com/2025/08/17/my-week-at-hms-medscience-clinical/hms1-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/08/hms1.jpg" data-orig-size="1152,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="HMS1" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/08/hms1.jpg?w=768" src="{{ site.baseurl }}/assets/img/hms1.jpg" alt="" class="wp-image-409" style="width:644px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/hms1.jpg" alt="" class="wp-image-409" style="width:644px;height:auto" /></figure>
 
 
 
@@ -39,7 +38,7 @@ wp_id: 352
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" data-attachment-id="410" data-permalink="https://whitecoatdreamin.com/2025/08/17/my-week-at-hms-medscience-clinical/hms2-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/08/hms2.jpg" data-orig-size="1536,1152" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="HMS2" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/08/hms2.jpg?w=1024" src="{{ site.baseurl }}/assets/img/hms2.jpg" alt="" class="wp-image-410" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="{{ site.baseurl }}/assets/img/hms2.jpg" alt="" class="wp-image-410" /></figure>
 
 
 
@@ -131,4 +130,4 @@ wp_id: 352
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" data-attachment-id="411" data-permalink="https://whitecoatdreamin.com/2025/08/17/my-week-at-hms-medscience-clinical/hms3-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/08/hms3.jpg" data-orig-size="1536,1152" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="HMS3" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/08/hms3.jpg?w=1024" src="{{ site.baseurl }}/assets/img/hms3.jpg" alt="" class="wp-image-411" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="{{ site.baseurl }}/assets/img/hms3.jpg" alt="" class="wp-image-411" /></figure>

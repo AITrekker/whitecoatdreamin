@@ -2,7 +2,6 @@
 layout: post
 title: "From Sutures to Scenarios: My Journey Through Stanford’s Clinical Summer Internship"
 date: 2024-08-05T16:00:00
-wp_id: 305
 ---
 
 <p class="wp-block-paragraph">I had the incredible opportunity to attend <a href="https://med.stanford.edu/medcsi.html">Stanford&#8217;s Clinical Summer Internship program</a>, where I explored a wide range of topics in the medical field. From learning how to suture to understanding the anatomy of the heart, and even spending a day in the life of an orthopedic surgeon, the experience was both challenging and rewarding.</p>
@@ -49,7 +48,7 @@ wp_id: 305
 
 
 
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img loading="lazy" width="768" height="1024" data-attachment-id="424" data-permalink="https://whitecoatdreamin.com/2024/08/05/from-sutures-to-scenarios-my-journey-through-stanfords-clinical-summer-internship/monica_gupta_sci_kidney-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/08/monica_gupta_sci_kidney.jpg" data-orig-size="1152,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Monica_Gupta_SCI_Kidney" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/08/monica_gupta_sci_kidney.jpg?w=768" src="{{ site.baseurl }}/assets/img/monica_gupta_sci_kidney.jpg" alt="" class="wp-image-424" style="width:833px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized is-style-rounded"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/monica_gupta_sci_kidney.jpg" alt="" class="wp-image-424" style="width:833px;height:auto" /></figure>
 
 
 

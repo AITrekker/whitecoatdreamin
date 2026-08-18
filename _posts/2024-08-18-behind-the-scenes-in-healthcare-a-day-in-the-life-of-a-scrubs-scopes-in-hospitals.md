@@ -2,7 +2,6 @@
 layout: post
 title: "Behind the Scenes in Healthcare: A Day in the Life of a Scrubs & Scopes in hospitals"
 date: 2024-08-18T16:30:00
-wp_id: 303
 ---
 
 <p class="wp-block-paragraph">This wraps up my summer activities. I had an opportunity to be part of a &#8220;Scrubs and Scopes&#8221; camp at a local Children&#8217;s hospital. During my camp experience, I got to dive into various healthcare roles, each one offering a unique perspective on the medical field.</p>

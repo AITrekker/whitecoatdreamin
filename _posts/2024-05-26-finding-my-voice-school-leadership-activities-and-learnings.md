@@ -2,7 +2,6 @@
 layout: post
 title: "Finding My Voice: School Leadership Activities and Learnings"
 date: 2024-05-26T10:52:00
-wp_id: 294
 ---
 
 <p class="wp-block-paragraph">I&#8217;m a 10th grader who&#8217;s been really involved in our school&#8217;s activities. This year, I served on the <strong>inclusion and advisory committee </strong>for our school district. It was such a great experience working with others to make our school a better place for everyone. I also decided to take a big step and run for class officer and ASP treasurer. Spoiler alert: I didn&#8217;t win either election.</p>

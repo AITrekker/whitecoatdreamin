@@ -2,7 +2,6 @@
 layout: post
 title: "Committed to LMU: What College Applications Taught Me About Storytelling"
 date: 2026-04-18T18:23:00
-wp_id: 452
 ---
 
 <p class="wp-block-paragraph">After months of applications, essays, interviews, decisions, and campus research, I have officially committed to Loyola Marymount University!</p>
@@ -13,7 +12,7 @@ wp_id: 452
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" data-attachment-id="455" data-permalink="https://whitecoatdreamin.com/2026/04/18/committed-to-lmu-what-college-applications-taught-me-about-storytelling/3eb5d4f3-ddca-414f-bf54-e4703f7f6963_1_105_c/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/3eb5d4f3-ddca-414f-bf54-e4703f7f6963_1_105_c.jpeg" data-orig-size="768,1024" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 17 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1774861057&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;16.890625&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0020242914979757&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;latitude&quot;:&quot;33.970811111111&quot;,&quot;longitude&quot;:&quot;-118.41649722222&quot;}" data-image-title="3EB5D4F3-DDCA-414F-BF54-E4703F7F6963_1_105_c" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/3eb5d4f3-ddca-414f-bf54-e4703f7f6963_1_105_c.jpeg?w=768" src="{{ site.baseurl }}/assets/img/3eb5d4f3-ddca-414f-bf54-e4703f7f6963_1_105_c.jpg" alt="" class="wp-image-455" style="aspect-ratio:0.7500135011070908;width:513px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/3eb5d4f3-ddca-414f-bf54-e4703f7f6963_1_105_c.jpg" alt="" class="wp-image-455" style="aspect-ratio:0.7500135011070908;width:513px;height:auto" /></figure>
 
 
 
@@ -39,7 +38,7 @@ wp_id: 452
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" data-attachment-id="469" data-permalink="https://whitecoatdreamin.com/2026/04/18/committed-to-lmu-what-college-applications-taught-me-about-storytelling/2410a0a1-57da-4a54-9531-f92822d69258_1_105_c/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/04/2410a0a1-57da-4a54-9531-f92822d69258_1_105_c.jpeg" data-orig-size="768,1024" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="2410A0A1-57DA-4A54-9531-F92822D69258_1_105_c" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/04/2410a0a1-57da-4a54-9531-f92822d69258_1_105_c.jpeg?w=768" src="{{ site.baseurl }}/assets/img/2410a0a1-57da-4a54-9531-f92822d69258_1_105_c.jpg" alt="" class="wp-image-469" style="aspect-ratio:0.7500168861870989;width:497px;height:auto" /></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/2410a0a1-57da-4a54-9531-f92822d69258_1_105_c.jpg" alt="" class="wp-image-469" style="aspect-ratio:0.7500168861870989;width:497px;height:auto" /></figure>
 
 
 
@@ -83,7 +82,7 @@ wp_id: 452
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="770" data-attachment-id="457" data-permalink="https://whitecoatdreamin.com/2026/04/18/committed-to-lmu-what-college-applications-taught-me-about-storytelling/45a2fc45-f108-42bf-9dd6-78f5c9536dde_1_201_a/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/45a2fc45-f108-42bf-9dd6-78f5c9536dde_1_201_a.jpeg" data-orig-size="3729,2805" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.78&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 17 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1774861243&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.7649998656528&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;3.1000062000124E-5&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;,&quot;latitude&quot;:&quot;33.971197222222&quot;,&quot;longitude&quot;:&quot;-118.41660277778&quot;}" data-image-title="45A2FC45-F108-42BF-9DD6-78F5C9536DDE_1_201_a" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2026/07/45a2fc45-f108-42bf-9dd6-78f5c9536dde_1_201_a.jpeg?w=1024" src="{{ site.baseurl }}/assets/img/45a2fc45-f108-42bf-9dd6-78f5c9536dde_1_201_a.jpg" alt="" class="wp-image-457" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="770" src="{{ site.baseurl }}/assets/img/45a2fc45-f108-42bf-9dd6-78f5c9536dde_1_201_a.jpg" alt="" class="wp-image-457" /></figure>
 
 
 

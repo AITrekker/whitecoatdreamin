@@ -2,10 +2,9 @@
 layout: post
 title: "Adventures at the Health and Wellness Fair"
 date: 2023-09-16T17:23:00
-wp_id: 111
 ---
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="922" data-attachment-id="393" data-permalink="https://whitecoatdreamin.com/health-fair-2-3/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/10/health-fair-2-1.jpg" data-orig-size="1536,1383" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="health-fair-2" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/10/health-fair-2-1.jpg?w=1024" src="{{ site.baseurl }}/assets/img/health-fair-2-1.jpg" alt="" class="wp-image-393" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="922" src="{{ site.baseurl }}/assets/img/health-fair-2-1.jpg" alt="" class="wp-image-393" /></figure>
 
 
 
@@ -95,11 +94,11 @@ wp_id: 111
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="768" height="1024" data-attachment-id="392" data-permalink="https://whitecoatdreamin.com/health-fair-1-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/10/health-fair-1.jpg" data-orig-size="1152,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="health-fair-1" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/10/health-fair-1.jpg?w=768" src="{{ site.baseurl }}/assets/img/health-fair-1.jpg" alt="" class="wp-image-392" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/health-fair-1.jpg" alt="" class="wp-image-392" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="768" height="1024" data-attachment-id="391" data-permalink="https://whitecoatdreamin.com/health-fair-3-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/10/health-fair-3.jpg" data-orig-size="1152,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="health-fair-3" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2025/10/health-fair-3.jpg?w=768" src="{{ site.baseurl }}/assets/img/health-fair-3.jpg" alt="" class="wp-image-391" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="768" height="1024" src="{{ site.baseurl }}/assets/img/health-fair-3.jpg" alt="" class="wp-image-391" /></figure>
 
 
 

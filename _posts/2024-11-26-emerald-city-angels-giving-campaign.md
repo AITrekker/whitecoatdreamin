@@ -2,7 +2,6 @@
 layout: post
 title: "Emerald City Angels: Giving Campaign!"
 date: 2024-11-26T11:32:00
-wp_id: 329
 ---
 
 <p class="wp-block-paragraph">As an 11th grader, being the Junior Guild President of Emerald City Angels at Seattle Children’s Hospital has been nothing short of an incredible experience. Leading this amazing group of people has not only taught me about leadership and collaboration but has also allowed me to make a tangible impact on the lives of children and families in our community.</p>
@@ -31,7 +30,7 @@ wp_id: 329
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="834" data-attachment-id="421" data-permalink="https://whitecoatdreamin.com/2024/11/26/emerald-city-angels-giving-campaign/give2024blanket-2/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/11/give2024blanket.png" data-orig-size="1536,1251" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Give2024Blanket" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/11/give2024blanket.png?w=1024" src="{{ site.baseurl }}/assets/img/give2024blanket.jpg" alt="" class="wp-image-421" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="834" src="{{ site.baseurl }}/assets/img/give2024blanket.jpg" alt="" class="wp-image-421" /></figure>
 
 
 
@@ -43,7 +42,7 @@ wp_id: 329
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" data-attachment-id="422" data-permalink="https://whitecoatdreamin.com/2024/11/26/emerald-city-angels-giving-campaign/give2024check/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/11/give2024check.jpg" data-orig-size="1536,1152" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Give2024Check" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/11/give2024check.jpg?w=1024" src="{{ site.baseurl }}/assets/img/give2024check.jpg" alt="" class="wp-image-422" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="{{ site.baseurl }}/assets/img/give2024check.jpg" alt="" class="wp-image-422" /></figure>
 
 
 

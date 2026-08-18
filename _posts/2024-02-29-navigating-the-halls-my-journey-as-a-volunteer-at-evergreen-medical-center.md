@@ -2,10 +2,9 @@
 layout: post
 title: "Navigating the Halls: My Journey as a Volunteer at EvergreenHealth Medical Center"
 date: 2024-02-29T14:06:00
-wp_id: 276
 ---
 
-<figure class="wp-block-image aligncenter size-full is-style-default"><img data-attachment-id="407" data-permalink="https://whitecoatdreamin.com/2024/02/29/navigating-the-halls-my-journey-as-a-volunteer-at-evergreen-medical-center/evergreen_1/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/02/evergreen_1.png" data-orig-size="715,721" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="evergreen_1" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2024/02/evergreen_1.png?w=715" src="{{ site.baseurl }}/assets/img/evergreen_1.jpg" alt="" class="wp-image-407" style="object-fit:cover" /></figure>
+<figure class="wp-block-image aligncenter size-full is-style-default"><img src="{{ site.baseurl }}/assets/img/evergreen_1.jpg" alt="" class="wp-image-407" style="object-fit:cover" /></figure>
 
 
 

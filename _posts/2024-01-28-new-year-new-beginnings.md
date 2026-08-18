@@ -2,7 +2,6 @@
 layout: post
 title: "Oh Hello 2024 ~New Year, New Beginnings!"
 date: 2024-01-28T14:44:00
-wp_id: 271
 ---
 
 <p class="wp-block-paragraph">As 2024 rolled in, I felt a surge of excitement and nerves swirling inside me. I turned 16! Finally reaching this milestone opened up a world of opportunities, not just in terms of driving or hanging out with friends, but also in pursuing my dreams of making a difference in the community. </p>

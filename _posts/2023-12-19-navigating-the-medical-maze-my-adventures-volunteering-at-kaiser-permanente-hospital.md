@@ -2,10 +2,9 @@
 layout: post
 title: "Navigating the Medical Maze: My Adventures Volunteering at Kaiser Permanente Hospital!"
 date: 2023-12-19T21:54:00
-wp_id: 228
 ---
 
-<figure class="wp-block-image size-full is-resized is-style-default"><img data-attachment-id="405" data-permalink="https://whitecoatdreamin.com/2023/12/19/navigating-the-medical-maze-my-adventures-volunteering-at-kaiser-permanente-hospital/kaiser_1/" data-orig-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2023/12/kaiser_1.png" data-orig-size="1536,1194" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="kaiser_1" data-image-description="" data-image-caption="" data-large-file="https://mocagupta-cqklj.wordpress.com/wp-content/uploads/2023/12/kaiser_1.png?w=1024" src="{{ site.baseurl }}/assets/img/kaiser_1.jpg" alt="" class="wp-image-405" style="width:700px" /></figure>
+<figure class="wp-block-image size-full is-resized is-style-default"><img src="{{ site.baseurl }}/assets/img/kaiser_1.jpg" alt="" class="wp-image-405" style="width:700px" /></figure>
 
 
 
