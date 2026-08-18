@@ -180,6 +180,12 @@ a:hover { color: var(--accent-lo); }
   margin: 1.5rem 0; padding: .2rem 0 .2rem 1.2rem;
   border-left: 3px solid var(--line); color: var(--muted); font-style: italic;
 }
+.entry blockquote cite {
+  display: block; margin-top: .6rem;
+  font-family: var(--sans); font-size: .78rem; font-style: normal;
+  letter-spacing: .01em;
+}
+.entry blockquote cite::before { content: "\2014\00a0"; }
 .entry hr, .wp-block-separator {
   border: 0; border-top: 1px solid var(--line); margin: 2.2rem 0;
 }
