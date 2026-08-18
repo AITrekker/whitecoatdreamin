@@ -258,11 +258,10 @@ a:hover { color: var(--accent-lo); }
     grid-template-columns: 1fr; gap: 0;
   }
   .main { order: 1; padding-bottom: 2rem; max-width: none; }
-  .rail {
-    order: 2; position: static; max-height: none; overflow: visible;
-    border-top: 1px solid var(--line); padding: 1.6rem 0 .5rem;
-  }
-  .rail ul { gap: .95rem; }
+  /* Post pages carry their own Previous/Next pager, so dropping the rail
+     costs no navigation - and reflowed under the content it put all 24 posts
+     at the foot of every page. */
+  .rail { display: none; }
   .masthead-inner { padding-top: 1.3rem; }
   .brand { font-size: 1.4rem; }
   .mast-top { gap: 1rem; }
@@ -274,3 +273,34 @@ a:hover { color: var(--accent-lo); }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
 }
+
+/* ---------- phones ---------- */
+
+/* The masthead was most of the first screen on a phone: the brand wrapped to two
+   lines and the tagline to three, because the logo and social icons squeeze the
+   text into ~170px. Shrink the type, drop the tagline (it stays in <title> and
+   the SEO tags) and the whole header fits in one row plus tabs. */
+@media (max-width: 640px) {
+  .masthead-inner { padding: .9rem 1.1rem 0; }
+  .brand { font-size: 1.15rem; letter-spacing: -.01em; }
+  .tagline { display: none; }
+  .mast-logo { height: 20px; }
+  .mast-top { gap: .75rem; }
+  .mast-id { gap: .6rem; }
+  .mast-social svg { width: 18px; height: 18px; }
+  .shell { padding: 0 1.1rem; }
+
+  /* Tabs still scroll sideways; the mask fades the right edge so it is visible
+     that there is more than fits. The scrollbar itself is hidden - it rendered
+     as a heavy bar under the tabs on iOS. */
+  .tabs {
+    margin-top: .7rem; scrollbar-width: none;
+    -webkit-mask-image: linear-gradient(to right, #000 80%, transparent 98%);
+            mask-image: linear-gradient(to right, #000 80%, transparent 98%);
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tabs a { font-size: .85rem; padding: .45rem .6rem; }
+
+  .foot-rss { display: none; }
+}
+
