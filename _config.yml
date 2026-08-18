@@ -7,10 +7,10 @@ description: >-
 author: Monica Gupta
 lang: en
 
-# Preview runs at aitrekker.github.io/whitecoatdreamin.
-# At cutover to whitecoatdreamin.com, set baseurl to "" and url to the domain.
-url: "https://aitrekker.github.io"
-baseurl: "/whitecoatdreamin"
+# Served at the apex domain via the CNAME file; GitHub Pages resolves it with
+# A records. The aitrekker.github.io/whitecoatdreamin preview URL no longer works.
+url: "https://whitecoatdreamin.com"
+baseurl: ""
 
 permalink: /:year/:month/:day/:title/
 excerpt_separator: "<!--more-->"
