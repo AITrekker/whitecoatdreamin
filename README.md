@@ -33,5 +33,5 @@ Images go in `assets/img/` and are referenced as
 2. Set `baseurl: ""` and `url: "https://whitecoatdreamin.com"` in `_config.yml`
 3. Point DNS at GitHub's A records
 
-Full archive of the original WordPress site (including originals of every image)
-is in `~/OneDrive/Documents/whitecoatdreamin-backup/`.
+A full archive of the original WordPress site, including the originals of every
+image, is kept outside this repo.
